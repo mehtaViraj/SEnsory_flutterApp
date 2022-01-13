@@ -1,4 +1,4 @@
-# voice_reocrder
+# voice_recorder
 
 A voice recorder app that is built using Flutter i.e. capable of recording voice note and playing them
 
